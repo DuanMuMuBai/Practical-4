@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitConflictDemo-Chifeng</string>
+    <string name="screen_title">Git Conflict Demo</string>
+    <string name="screen_hint">Two buttons share the same colour until the merge conflict is resolved.</string>
+    <string name="confirm">Confirm</string>
+    <string name="second">Cancel</string>
+    <string name="status_idle">Ready</string>
+    <string name="status_confirm">Confirm pressed</string>
+    <string name="status_cancel">Cancel pressed</string>
+</resources>
